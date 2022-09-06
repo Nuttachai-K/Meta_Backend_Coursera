@@ -6,5 +6,4 @@ def add_to_list(mList,item):
     return tList
 print(add_to_list(my_list,4))
 
-tList = str(my_list)
-print(tList[0]+tList[2])
+
